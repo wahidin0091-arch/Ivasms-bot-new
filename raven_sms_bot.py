@@ -51,7 +51,7 @@ IVASMS_DASHBOARD = {
 }
 
 # ✘ 𝙍𝘼𝙑𝙀𝙉 | إعدادات عامة
-USERNAME = "kagoksabar4@gmail.com"
+USERNAME = "kagoksabar"
 PASSWORD = sean009123"
 BOT_TOKEN = "8744360469:AAEVYS5D_2CAd2K63IM-fMVXUEDqZ4_hRHs"
 CHAT_IDS = [

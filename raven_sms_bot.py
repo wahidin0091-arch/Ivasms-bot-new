@@ -4,9 +4,9 @@
 ║              Telegram SMS Management System                  ║
 ║                  Developed by ✘ 𝙍𝘼𝙑𝙀𝙉                      ║
 ║                                                              ║
-║  GitHub: https://github.com/hsh34811-hash                    ║
-║  Telegram: @P_X_24                                           ║
-║  Channel: https://t.me/Raven_xx24                            ║
+║                      ║
+║  Telegram: @beccba                                          ║
+║  Channel: https://t.me/seanotpmonitoring                            ║
 ║                                                              ║
 ║  Copyright © 2026 ✘ 𝙍𝘼𝙑𝙀𝙉 - All Rights Reserved            ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -41,8 +41,8 @@ IVASMS_DASHBOARD = {
     "login_url": "https://ivas.tempnum.qzz.io/login",
     "base_url": "https://ivas.tempnum.qzz.io",
     "sms_api_endpoint": "https://ivas.tempnum.qzz.io/portal/sms/received/getsms",
-    "username": "YOUR_EMAIL_HERE",
-    "password": "YOUR_PASSWORD_HERE",
+    "username": kagoksabar4@gmail.com",
+    "password": "sean009123",
     "session": requests.Session(),
     "is_logged_in": False,
     "cookies": None,
@@ -51,11 +51,11 @@ IVASMS_DASHBOARD = {
 }
 
 # ✘ 𝙍𝘼𝙑𝙀𝙉 | إعدادات عامة
-USERNAME = "shagunkumar060q@gmail.com"
-PASSWORD = "Sh@gun1234567890"
-BOT_TOKEN = "8717443510:AAFfOZMRKCHw3L1uIHOcBEex4Wu6rJQqoTk"
+USERNAME = "kagoksabar4@gmail.com"
+PASSWORD = sean009123"
+BOT_TOKEN = "8744360469:AAEVYS5D_2CAd2K63IM-fMVXUEDqZ4_hRHs"
 CHAT_IDS = [
-    "-1003720773871",
+    "-100397937257",
 ]
 REFRESH_INTERVAL = 2  # ⚡ تقليل من 3 إلى 2 ثانية لسحب أسرع
 TIMEOUT = 100
